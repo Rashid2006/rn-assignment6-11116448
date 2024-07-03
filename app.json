@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "rn-assignment6-11116448",
+    "slug": "rn-assignment6-11116448",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
